@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: recAltInfo
+## Notes: Stores information about your alts, compiling the data into an informative display.
+## Author: Recluse <john.d.mann@gmail.com>
+## Dependencies: recMedia, recLib
+## SavedVariables: RecAltInfoDB
+## Version: $Id: recAltInfo.toc 550 2010-03-02 15:27:53Z john.d.mann@gmail.com $
+
+core.lua
